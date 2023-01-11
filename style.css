@@ -1,0 +1,10 @@
+body{
+    color: white;
+}
+table{
+    border: 1px;
+    width: 200px;
+}
+#colspan{
+    text-align: center;
+}
